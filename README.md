@@ -1,1 +1,1 @@
-Hello, Hexlet! How are you doing?
+No code No pain
